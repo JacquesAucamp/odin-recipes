@@ -1,9 +1,12 @@
 .Heading{
+  display: inline-block;
   font-family: 'Times New Roman', Times, serif;
   font-size: 80px;
   font-weight: 800px;
   text-align: center;
   background-color: lightgray;
+  width: auto;
+  padding: 20px;
 }
 
 .Heading2{
